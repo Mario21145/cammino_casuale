@@ -1,3 +1,7 @@
+//Cosa fa questo programma?
+//Questo programma ha lo scopo di simulare un percorso casuale composto da due pedine su una scacchiera 30x30
+//all'unisono , il programma finisce quando le due pedine si incontrano.
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
